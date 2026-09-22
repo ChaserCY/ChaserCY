@@ -1,16 +1,31 @@
-## Hi there 👋
+# ChangYou Li · ChaserCY
 
-<!--
-**ChaserCY/ChaserCY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Unreal Engine developer building gameplay systems — and AI tooling for coding agents.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tech**
+
+`Unreal Engine 5` `Blueprint` `C++` `JavaScript` `Node.js` `PowerShell` `Linux`
+
+**What I'm building**
+
+- **Sky Sanctum** — blueprint-driven LAN co-op, two players, built in UE
+- **personal-online-resume** — resume / portfolio site with no build step, plain HTML + CSS + JS
+- **second-opinion** & **agent-review** — cross-agent peer review for Claude Code and Codex
+
+**Find me**
+
+[Website](https://example.com) <!-- TODO: replace with the real URL -->
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ChaserCY&show_icons=true&hide_border=true&theme=github_dark">
+  <img alt="ChaserCY's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ChaserCY&show_icons=true&hide_border=true">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaserCY&layout=compact&hide_border=true&theme=github_dark">
+  <img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaserCY&layout=compact&hide_border=true">
+</picture>
