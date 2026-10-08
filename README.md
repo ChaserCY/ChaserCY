@@ -32,6 +32,6 @@ Unreal Engine developer building gameplay systems — and AI tooling for coding 
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaserCY&layout=compact&hide_border=true&theme=github_dark">
-  <img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaserCY&layout=compact&hide_border=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaserCY&layout=compact&hide_border=true&theme=github_dark&v=2">
+  <img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaserCY&layout=compact&hide_border=true&v=2">
 </picture>
