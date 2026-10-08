@@ -27,8 +27,8 @@ Unreal Engine developer building gameplay systems — and AI tooling for coding 
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ChaserCY&show_icons=true&hide_border=true&theme=github_dark">
-  <img alt="ChaserCY's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ChaserCY&show_icons=true&hide_border=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ChaserCY&show_icons=true&hide_border=true&theme=github_dark&hide_rank=true">
+  <img alt="ChaserCY's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ChaserCY&show_icons=true&hide_border=true&hide_rank=true">
 </picture>
 
 <picture>
