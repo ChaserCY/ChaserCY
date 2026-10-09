@@ -6,7 +6,7 @@ Unreal Engine developer building gameplay systems — and AI tooling for coding 
 
 **Tech**
 
-`Unreal Engine 5` `C++` `Blueprint` `GAS` `Puerts` `TypeScript` `JavaScript` `Node.js` `PowerShell` `Linux`
+`Unreal Engine 5` `C++` `Blueprint` `GAS` `Puerts` `TypeScript` 
 
 **What I'm building**
 
