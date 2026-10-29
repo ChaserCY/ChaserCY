@@ -22,7 +22,7 @@ Unreal Engine developer building gameplay systems — and AI tooling for coding 
 
 **Find me**
 
-[Website](https://selfone.chaser.cyou/)
+[Website](https://selfone.chaser.cyou/) · [Bilibili](https://space.bilibili.com/3546848650332614)
 
 ---
 
